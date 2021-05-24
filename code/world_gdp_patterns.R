@@ -11,7 +11,7 @@ colnames(dataset)
 new_dataset<-dataset[,c(1,2,4,5,7,8,9,10,11,12,13,14,15,24,25,35)]
 sapply(new_dataset, typeof)
 ```
-```{r presdasdsa}
+```{r resumen inicial}
 summary(new_dataset)
 ```
 
