@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @dioni1997
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Análisis macroeconómico global en 2017.
+**PRA 2 - Limpieza y validación de los datos**
 
-<!---
-dioni1997/dioni1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Componentes:**
+
+- Carlos Lavado Mahia
+- Dionisio González Jiménez
+
+**Descripción general:**
+
+Limpieza de datos en un dataset elegido "country_profile_data.csv" que nos muestra datos macroeconómicos tanto por país como por región con algunos indicadores destacados (GDP, GDP per cápita, agriculture, industry, services, employment, import, export, balance...)
+
+Análisis de los datos del dataset con métodos de análisis estadísticos inferenciales como el estudio de la homocedasticidad o el coeficiente de correlación entre varios indicadores. Además, se analiza la regresión lineal de varios indicadores sobre el GDP para un país en concreto. 
