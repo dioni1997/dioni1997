@@ -179,4 +179,4 @@ new_dataset$country[is.na(new_dataset$`Economy: Industry (% of GVA)`)]
 
 #new_dataset$`Surface area (km2)`[is.na(new_dataset$`Surface area (km2)`) & new_dataset$Region == "NorthernAfrica"] <- mean(!is.na(new_dataset$`Surface area (km2)`) & new_dataset$Region == "NorthernAfrica")
 ```
-```
+
